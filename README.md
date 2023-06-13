@@ -1,4 +1,4 @@
-<h3 align="center">A apprentice frontend developer</h3>
+<h3 align="center">A  frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soucron&label=Profile%20views&color=0e75b6&style=flat" alt="soucron" /> </p>
 
