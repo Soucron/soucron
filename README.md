@@ -1,7 +1,5 @@
 <h3 align="center">A  frontend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=soucron&label=Profile%20views&color=0e75b6&style=flat" alt="soucron" /> </p>
-
 - 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://soucron.github.io/RC-Portfolio/](https://soucron.github.io/RC-Portfolio/)
